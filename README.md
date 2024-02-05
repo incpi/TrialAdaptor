@@ -1,1 +1,2 @@
-# This Adapter
+# SharepointAdapter
+SAP CPI Adapter
